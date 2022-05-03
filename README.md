@@ -7,7 +7,6 @@ const profile {
   e-mail : "938kjh@gmail.com"
 }
 ````
-<center>
   
 안녕하세요. :pencil2: </br>
 문제를 해결하는 순간을 사랑하는 신입 프론트엔드 개발자 곽지현입니다.<br>
@@ -26,5 +25,3 @@ React를 중심으로 공부하고 있으며<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
-
-</center>
