@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello,World!&fontSize=40)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello,World!&fontSize=30)
 
 ````js
 const profile {
@@ -10,6 +8,7 @@ const profile {
 }
 ````
 <center>
+  
 안녕하세요. :pencil2: </br>
 신입 프론트엔드 개발자 곽지현입니다.<br>
 문제를 해결하는 순간을 사랑합니다.<br>
