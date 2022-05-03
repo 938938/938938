@@ -17,7 +17,6 @@ React를 중심으로 공부하고 있으며<br>
 
 ## My tech stack :notebook_with_decorative_cover:
 
----
 
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
