@@ -7,13 +7,18 @@ const profile {
   e-mail : "938kjh@gmail.com"
 }
 ````
-  
+
 안녕하세요. :pencil2: </br>
 문제를 해결하는 순간을 사랑하는 신입 프론트엔드 개발자 곽지현입니다.<br>
 React를 중심으로 공부하고 있으며<br>
 더 나은 코드를 위해 끊임없이 노력하는 중입니다.<br>
 
 <br>
+
+[![938938's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=938938&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=graywhite)](https://github.com/938938)
+<br>
+![938938's github stats](https://github-readme-stats.vercel.app/api?username=938938&show_icons=true&theme=graywhite&hide=issues,contribs)
+
 
 ## My tech stack :notebook_with_decorative_cover:
 
@@ -25,5 +30,3 @@ React를 중심으로 공부하고 있으며<br>
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 
 <br>
-![938938's github stats](https://github-readme-stats.vercel.app/api?username=938938&show_icons=true)
-[![938938's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=938938&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/938938)
