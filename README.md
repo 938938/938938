@@ -23,3 +23,6 @@ React를 중심으로 공부하고 있으며<br>
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
+
+<br>
+![938938's github stats](https://github-readme-stats.vercel.app/api?username=938938&show_icons=true)
