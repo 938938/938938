@@ -25,4 +25,4 @@ React를 중심으로 공부하고 있으며<br>
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 
 <br>
-[![938938's GitHub stats](https://github-readme-stats.vercel.app/api?username=938938)](https://github.com/938938/github-readme-stats)
+![938938's GitHub stats](https://github-readme-stats.vercel.app/api?username=938938)](https://github.com/938938/github-readme-stats)
