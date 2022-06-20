@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello,World!&fontSize=30)
 
 <br>
+```javascript
+  const profile = {
+    name : "Kwak JiHyeon",
+    position : "Front-end Developer",
+    E_Mail : "938kjh@gmail.com"
+  }
+```
+
+<br>
 
 [![938938's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=938938&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=graywhite)](https://github.com/938938)
 <br>
