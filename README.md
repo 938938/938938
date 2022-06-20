@@ -2,16 +2,11 @@
 
 ````js
 const profile {
-  name : "곽지현",
+  name : "Kwak JiHyeon",
   position : "Front-end Developer",
   e-mail : "938kjh@gmail.com"
 }
 ````
-
-안녕하세요. :pencil2: </br>
-문제를 해결하는 순간을 사랑하는 신입 프론트엔드 개발자 곽지현입니다.<br>
-React를 중심으로 공부하고 있으며<br>
-더 나은 코드를 위해 끊임없이 노력하는 중입니다.<br>
 
 <br>
 
