@@ -12,9 +12,9 @@
 
 <br>
 
-[![938938's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=938938&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=graywhite)](https://github.com/938938)
-<br>
-![938938's github stats](https://github-readme-stats.vercel.app/api?username=938938&show_icons=true&theme=graywhite&hide=issues,contribs)
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=938938&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=938938&layout=compact&langs_count=8"/>
 
 
 ## My tech stack :notebook_with_decorative_cover:
