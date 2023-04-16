@@ -13,7 +13,7 @@
     name : "Kwak JiHyeon",
     position : "Front-end Developer",
     E_Mail : "938kjh@gmail.com",
-    blog : "(https://velog.io/@938938)[https://velog.io/@938938]"
+    blog : "https://velog.io/@938938"
   }
 ```
 
