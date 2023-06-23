@@ -6,16 +6,9 @@
 
   <br>
   <br>
-  
 
-```javascript
-  const profile = {
-    name : "Kwak JiHyeon",
-    position : "Front-end Developer",
-    E_Mail : "938kjh@gmail.com",
-    blog : "https://velog.io/@938938"
-  }
-```
+Email : "938kjh@gmail.com"
+Blog : ["https://velog.io/@938938"](https://velog.io/@938938)
 
 ---
 
