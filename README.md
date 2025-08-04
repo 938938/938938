@@ -8,8 +8,6 @@
   <br>
 
 Email : "938kjh@gmail.com"
-  <br>
-Blog : "[https://velog.io/@938938](https://velog.io/@938938)"
 
 ---
 
